@@ -1,0 +1,14 @@
+# ignore all db files 
+*.db 
+
+# ignore .vscode 
+.vscode/
+
+#ignore __pycache__/ 
+__pycache__/ 
+
+# ignore log files 
+*.log 
+
+# env 
+.eve
