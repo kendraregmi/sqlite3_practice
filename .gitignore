@@ -12,3 +12,6 @@ __pycache__/
 
 # env 
 .eve
+
+# ignore python1.py 
+python1.py 
